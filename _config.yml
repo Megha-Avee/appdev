@@ -2,16 +2,16 @@
 title:               'Today I Learned'
 tagline:             'Notes to self about software development'
 description:         ''
-url:                 'https://appdev-projects.github.io/'
-baseurl:             'til/'
+url:                 'https://Megha-Avee.github.io/'
+baseurl:             'appdev/'
 paginate:            5
 permalink:           pretty
 
 # About/contact
 author:
-  name:              Raghu Betina
-  url:               https://twitter.com/raghubetina
-  email:             raghu@firstdraft.com
+  name:              Megha Agarwal
+  url:               https://twitter.com/agarwal_megha26
+  email:             megha@neonforlife.com
 
 # Gems
 plugins:
